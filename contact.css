@@ -1,12 +1,12 @@
 body {
-background-image: url(../image/hoi.jpg);
+background-image: url(../hoi.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   display: grid;
 }
 .container {
-  background-image: url(../image/hi.jpg);
+  background-image: url(../hi.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
