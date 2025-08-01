@@ -56,7 +56,7 @@ body {
   z-index: 1000;
   top: 0;
   left: 0;
-  background-image: url(../hi.jpg);
+  background-image: url(hi.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
