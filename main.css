@@ -1,6 +1,6 @@
 @font-face {
   font-family: News;
-  src: url(../fonts/mb.ttf);
+  src: url(../mb.ttf);
 }
 h1{
   text-align: center;
@@ -20,7 +20,7 @@ body {
   background: orange;
 }
 .img{
-  background-image: url(../image/hoi.jpg);
+  background-image: url(../hoi.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@ body {
   z-index: 1000;
   top: 0;
   left: 0;
-  background-image: url(../image/hi.jpg);
+  background-image: url(../hi.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
